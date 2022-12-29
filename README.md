@@ -2,8 +2,17 @@
 
 ![version](https://img.shields.io/badge/version-1.1.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/black-dashboard-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/black-dashboard-react.svg?maxAge=2592000)]()  [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
 
-![Product Gif](./github-assets/black-dashboard-react.gif)
+<br />
 
+## 🎁 `PROMO` [Best Deals for Developers](https://www.admin-dashboards.com/best-deals-for-developers/) - Up to `80%OFF`
+
+Because 2022 is almost over and we all knew that was a super challenging year for all of us (freelancers, entrepreneurs, all-size companies) this article aims to highlight the **best deals for developers** that might help us to start amazing projects in 2023 at the lower cost possible.
+
+[![Best Deals For Programmers and Freelancers - Provided by AppSeed, CodedThemes, Creatuve-Tim, WrapPixel and BootstrapDash.](https://user-images.githubusercontent.com/51070104/209994947-ed4b33dd-f269-4043-8432-2c01a53e0f6b.jpg)](https://www.admin-dashboards.com/best-deals-for-developers/)
+
+<br />
+
+![Product Gif](./github-assets/black-dashboard-react.gif)
 
 [Black Dashboard React](https://www.creative-tim.com/product/black-dashboard-react?AFFILIATE=128200) is a beautiful [Bootstrap 4](http://getbootstrap.com/), [Reacstrap](https://reactstrap.github.io/) and [React](https://reactjs.org/) ([create-react-app](https://github.com/facebook/create-react-app)) Admin Dashboard with a huge number of components built to fit together and look amazing. If you are looking for a tool to manage and visualize data about your business, this dashboard is the thing for you. It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics.
 Black Dashboard React comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
